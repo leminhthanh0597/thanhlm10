@@ -1,10 +1,8 @@
 import pandas as pd
 
-def add(x, y):
-    return x + y
 
 def add(x, y):
-    return x - y
+    return x + y
 
 def process_data(input_df):
     # Some data processing operations
